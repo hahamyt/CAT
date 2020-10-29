@@ -1,13 +1,14 @@
 # Wasserstein distance-based auto-encoder tracking
 This repository is based on the paper "Wasserstein distance-based auto-encoder tracking", under reviewing in the journal NEPL.
 
-![image](https://github.com/wahahamyt/data/Bird1.gif)
+![image](https://github.com/wahahamyt/CAT/data/Bird1.gif)
 
 ## Environment
 - Anaconda
 - Pytorch
 - visdom
 - Agumentor
+
 ```shell
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 ```
