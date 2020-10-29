@@ -75,7 +75,7 @@ if __name__ == '__main__':
             img = draw_img(img, bbreg_rect, gt[i], idx=i)
             cv2.imshow('tracker', img)
             cv2.waitKey(1)
-            # cv2.imwrite('../result/{}/{}.png'.format(opts["seq_name], i), draw_img(img, bbreg_rect, bbreg_rect, idx=i))
+            cv2.imwrite('../result/{}/{}.'.format('Bird1', str(i).zfill(4)), draw_img(img, bbreg_rect, gt[i], idx=i))
 
         spf = time.time() - tic
         spf_total += spf

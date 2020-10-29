@@ -1,9 +1,12 @@
-# CAT
+# Wasserstein distance-based auto-encoder tracking
 This repository is based on the paper "Wasserstein distance-based auto-encoder tracking", under reviewing in the journal NEPL.
+
+
 ## Environment
 - Anaconda
 - Pytorch
 - visdom
+- Agumentor
 ```shell
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 ```
@@ -16,13 +19,14 @@ This code also integrated in this repository.
 ### Pretrained Auto_Encoder Weights
 We also provided the pretrained auto encoder weights:
 - Baidu Disk: 
-    - 2048 z Dimension： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
-    - 256 z Dimension: https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg Code: ```7t41```
+    - 2048 z Dimension (2.3GB)： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
+    - 256 z Dimension (493MB): https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg Code: ```7t41```
 - Google Drive: 
-    - 2048 z Dimension： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow
-    - 256 z Dimension: https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg
+    - 2048 z Dimension (2.3GB)： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow
+    - 256 z Dimension (493MB): https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg
 
 ### Start tracking:
+Pycharm is ecommend for avoiding some path issues.
 ```shell
 python tracking/run_tracker.py
 ```

@@ -41,7 +41,6 @@ def str2bool(v):
 
 def grid2gif(image_str, output_gif, delay=100):
     """Make GIF from images.
-
     code from:
         https://stackoverflow.com/questions/753190/programmatically-generate-video-or-animated-gif-in-python/34555939#34555939
     """
