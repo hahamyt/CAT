@@ -35,10 +35,8 @@ Pycharm is recommend for avoiding some path issues.
 tracking/run_tracker.py
 ```
 ## Evaluation
-OTB protocal, LaSOT protocal, TC128 protocal
+OTB protocal: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
-https://github.com/HengLan/LaSOT_Evaluation_Toolkit
+LaSOT protocal:https://github.com/HengLan/LaSOT_Evaluation_Toolkit
 
-http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
-
-http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html
+TC128 protocal: http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html
