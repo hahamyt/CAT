@@ -28,7 +28,7 @@ We also provided the pretrained auto encoder weights:
     - 256 z Dimension (493MB): https://drive.google.com/file/d/1DeGPatiyGh52TWl4O7cOrdMZCFvDEvdT/view?usp=sharing
 
 ### Start tracking:
-Pycharm is ecommend for avoiding some path issues.
+Pycharm is recommend for avoiding some path issues.
 ```shell
 python tracking/run_tracker.py
 ```
