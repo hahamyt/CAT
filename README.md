@@ -21,10 +21,10 @@ This code also integrated in this repository.
 ### Pretrained Auto_Encoder Weights
 We also provided the pretrained auto encoder weights:
 - Baidu Disk: 
-    - 2048 z Dimension (2.3GB)： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
+    - 2048 z Dimension (2.3GB)：https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
     - 256 z Dimension (493MB): https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg Code: ```7t41```
 - Google Drive: 
-    - 2048 z Dimension (2.3GB)： https://drive.google.com/file/d/1g1GMVQeEKSiBboLDm26qArRP5_g8O-dO/view?usp=sharing
+    - 2048 z Dimension (2.3GB)：https://drive.google.com/file/d/1g1GMVQeEKSiBboLDm26qArRP5_g8O-dO/view?usp=sharing
     - 256 z Dimension (493MB): https://drive.google.com/file/d/1DeGPatiyGh52TWl4O7cOrdMZCFvDEvdT/view?usp=sharing
 
 After downloaded the weights, it should be renamed as ```last```, then moved to the folder ```net/weights/```.
