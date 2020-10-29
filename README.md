@@ -1,6 +1,7 @@
 # Wasserstein distance-based auto-encoder tracking
 This repository is based on the paper "Wasserstein distance-based auto-encoder tracking", under reviewing in the journal NEPL.
 
+![image](https://github.com/wahahamyt/data/Bird1.gif)
 
 ## Environment
 - Anaconda
@@ -22,8 +23,8 @@ We also provided the pretrained auto encoder weights:
     - 2048 z Dimension (2.3GB)： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
     - 256 z Dimension (493MB): https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg Code: ```7t41```
 - Google Drive: 
-    - 2048 z Dimension (2.3GB)： https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow
-    - 256 z Dimension (493MB): https://pan.baidu.com/s/1zMhTGUIYcqroXDKUFPvBqg
+    - 2048 z Dimension (2.3GB)： https://drive.google.com/file/d/1g1GMVQeEKSiBboLDm26qArRP5_g8O-dO/view?usp=sharing
+    - 256 z Dimension (493MB): https://drive.google.com/file/d/1DeGPatiyGh52TWl4O7cOrdMZCFvDEvdT/view?usp=sharing
 
 ### Start tracking:
 Pycharm is ecommend for avoiding some path issues.
