@@ -27,6 +27,8 @@ We also provided the pretrained auto encoder weights:
     - 2048 z Dimension (2.3GB)： https://drive.google.com/file/d/1g1GMVQeEKSiBboLDm26qArRP5_g8O-dO/view?usp=sharing
     - 256 z Dimension (493MB): https://drive.google.com/file/d/1DeGPatiyGh52TWl4O7cOrdMZCFvDEvdT/view?usp=sharing
 
+After downloaded the weights, it should be renamed as ```last```, then moved to the folder ```net/weights/```.
+
 ### Start tracking:
 Pycharm is recommend for avoiding some path issues.
 ```shell
