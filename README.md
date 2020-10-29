@@ -30,7 +30,7 @@ We also provided the pretrained auto encoder weights:
 ### Start tracking:
 Pycharm is recommend for avoiding some path issues.
 ```shell
-python tracking/run_tracker.py
+tracking/run_tracker.py
 ```
 ## Evaluation
 OTB protocal, LaSOT protocal, TC128 protocal
