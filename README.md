@@ -30,7 +30,7 @@ We also provided the pretrained auto encoder weights:
 After downloaded the weights, it should be renamed as ```last```, then moved to the folder ```net/weights/```.
 
 ### Start tracking:
-Pycharm is recommended for avoiding some path issues.
+Pycharm is recommended for avoiding some path issues (At least 6GB of GPU memory is required [under 2048 z dimension]).
 ```shell
 tracking/run_tracker.py
 ```
