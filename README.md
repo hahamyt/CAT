@@ -1,5 +1,5 @@
 # Wasserstein distance-based auto-encoder tracking
-This repository is based on the paper "Wasserstein distance-based auto-encoder tracking", under reviewing in the journal NEPL.
+This repository is based on the manuscript "Wasserstein distance-based auto-encoder tracking", under reviewing in the journal NEPL.
 
 ![image](https://github.com/wahahamyt/CAT/blob/master/data/Bird1.gif)
 
