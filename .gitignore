@@ -3,6 +3,3 @@
 */__pycache__/
 result/
 net/weights/last
-net/train/train_bbreg/checkpoints/bbreg/last
-net/train/train_bbreg/checkpoint.pth_bk.tar
-net/train/train_bbreg/checkpoint.pth.tar
