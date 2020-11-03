@@ -18,7 +18,7 @@ You can train the Auto Encoder by yourself using:
 https://github.com/wahahamyt/train_WAE.git. 
 
 This code also integrated in this repository.
-### Pretrained Auto_Encoder Weights
+### Pretrained Auto-Encoder Weights
 We also provided the pretrained auto encoder weights:
 - Baidu Disk: 
     - 2048 z Dimension (2.3GB)：https://pan.baidu.com/s/1yEFpTF9oOHFZtXAedxr0Ow Code: ```91pn```
