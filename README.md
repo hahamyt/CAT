@@ -40,3 +40,10 @@ OTB protocal: http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 LaSOT protocal: https://github.com/HengLan/LaSOT_Evaluation_Toolkit
 
 TC128 protocal: http://www.dabi.temple.edu/~hbling/data/TColor-128/TColor-128.html
+
+## Citation
+
+If you're using this code in a publication, please cite our paper.
+```
+Xu, L., Wei, Y., Dong, C. et al. Wasserstein Distance-Based Auto-Encoder Tracking. Neural Process Lett (2021). https://doi.org/10.1007/s11063-021-10507-9
+```
